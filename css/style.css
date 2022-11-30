@@ -1,0 +1,13 @@
+.main{
+    background-color: #EAF6FB;
+
+}
+.intro-font{
+    display: flex;
+}
+.intro {
+    width: 665px;
+    height: 389px;
+    display: flex;
+
+}
